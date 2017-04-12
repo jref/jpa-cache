@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-cache.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-cache_main.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-cache_main.iml" group="jpa-cache" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpa-cache_test.iml" filepath="$PROJECT_DIR$/.idea/modules/jpa-cache_test.iml" group="jpa-cache" />
+    </modules>
+  </component>
+</project>
